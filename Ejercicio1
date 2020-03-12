@@ -1,0 +1,9 @@
+var nombreyapellidos; "Alberto Pasero";
+var edad; 33;
+var diasemana; "miercoles";
+var gravedad; 9.8;
+
+console.log("Mi nombre y apellidos son " + nombreyapellidos);
+console.log("Tengo" + 32 );
+console.log("Hoy es" + diasemana);
+console.log("El valor de la gravedad es" + gravedad);
