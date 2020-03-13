@@ -1,0 +1,5 @@
+var datos = [["España, Madrid"], [14,18], ["Mercedes, Ferrari"]];
+
+console.log("Longitud del arrey" + datos.length);
+console.log("Longitud de elemento" + [0].length);
+console.log(datos[2],[1]);
