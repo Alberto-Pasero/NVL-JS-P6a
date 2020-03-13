@@ -1,0 +1,11 @@
+var muestraString = "AMIGO";
+
+console.log(muestraString.toLowerCase());
+
+var muestraString = "AMIGO";
+
+console.log(muestraString.replace("AMIGO", "Amigo"));
+
+var muestraString = "AMIGO";
+
+console.log(muestraString.length);
