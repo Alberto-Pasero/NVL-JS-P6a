@@ -1,0 +1,16 @@
+var par = [];
+var impar = [];
+
+for (var i=1; i<=50; i++) {
+    funtion.numeroAleatorio = (Math.floor((Math.random() * 100) + 1));
+    if (funtion.numeroAleatorio % 2 == 0) {
+
+        par.push(funtion.numeroAleatorio)
+    
+    }else {
+        impar.push(funtion.numeroAleatorio)
+    }
+}
+
+console.log(par)
+console.log(impar)
